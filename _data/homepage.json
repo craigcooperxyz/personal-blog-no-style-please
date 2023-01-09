@@ -1,18 +1,30 @@
 {
-    "title": "11ty-no-style-please",
-    "subtitle": "demo of a page made with 11ty-no-style-please",
+    "title": "Craig Cooper",
+    "subtitle": "I work with entrepreneurs, founders, directors and e-commerce managers using Shopify Plus to sell online.",
     "menu": [
         {
-            "title": "read more here",
+            "title": "find out more",
             "entries": [
                 {
-                    "title": "github",
-                    "url": "http://github.com/stopnoanime/11ty-no-style-please"
+                    "title": "archer cooper",
+                    "url": "https://www.archercooper.co.uk/"
+                },
+                {
+                    "title": "twitter",
+                    "url": "https://twitter.com/craigcooperxyz"
+                },
+                {
+                    "title": "linkedin",
+                    "url": "https://www.linkedin.com/in/craigcooperxyz/"
+                },
+                {
+                    "title": "interview with me",
+                    "url": "https://workwithshop.com/blog/hotse-craig-cooper"
                 }
             ]
         },
         {
-            "title": "all posts with the 'post' tag",
+            "title": "thoughts and words",
             "post_list": "post"
         }
     ]
